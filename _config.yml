@@ -1,15 +1,15 @@
-layout_spectrum: 0.6122423184569925
-typography_spectrum: 0.6003153678029776
+layout_spectrum: 0.5835419332142919
+typography_spectrum: 0.5197483031079173
 color:
-  brandStrength: 0.7807945089880377
-  lightness: 0.8491722482722253
-  saturation: 0.693470460595563
-  rhythmicContrast: 0.42896152357570827
+  brandStrength: 0.16060418006964028
+  lightness: 0.7385447926353663
+  saturation: 0.9320892139803618
+  rhythmicContrast: 0.6620133521500975
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: XeNoS-Art
 navigation: []
