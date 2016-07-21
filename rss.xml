@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[XeNoS-Art]]></title>
+        <description><![CDATA[XeNoS-Art]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jul 2016 18:12:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BooM]]></title>
+            <description><![CDATA[<article><h1>BooM</h1><p>:)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/00c8b7136d68d138ac6605bc1cfc6443/croprotate.jpg?cropheight=4267&cropwidth=6400&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F487622d8-3eba-447d-8880-4b4ac5cc320a.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/487622d8-3eba-447d-8880-4b4ac5cc320a.jpg</link>
+            <guid isPermaLink="false">a8662e06-0a38-4a47-bc5b-84baab17402c</guid>
+            <pubDate>Thu, 21 Jul 2016 18:12:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
