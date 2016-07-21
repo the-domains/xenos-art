@@ -1,19 +1,15 @@
-layout_spectrum: 0.20913038030266762
-typography_spectrum: 0.6113733977545053
+layout_spectrum: 0.6122423184569925
+typography_spectrum: 0.6003153678029776
 color:
-  brandStrength: 0.8538538778666407
-  lightness: 0.10746338916942477
-  saturation: 0.6015570105519146
-  rhythmicContrast: 0.9263239989522845
+  brandStrength: 0.7807945089880377
+  lightness: 0.8491722482722253
+  saturation: 0.693470460595563
+  rhythmicContrast: 0.42896152357570827
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: XeNoS-Art
-navigation:
-  - id: bb3628f9-3af1-4252-bc0d-c73d4e7be993
-    url: 2016-07-21-bb3628f9-3af1-4252-bc0d-c73d4e7be993.html
-    name: Portfoilo
-    type: content
+navigation: []
