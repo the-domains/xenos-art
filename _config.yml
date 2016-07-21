@@ -12,3 +12,8 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 name: XeNoS-Art
+navigation:
+  - id: bb3628f9-3af1-4252-bc0d-c73d4e7be993
+    url: 2016-07-21-bb3628f9-3af1-4252-bc0d-c73d4e7be993.html
+    name: Portfoilo
+    type: content
