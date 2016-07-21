@@ -1,0 +1,14 @@
+layout_spectrum: 0.6122423184569925
+typography_spectrum: 0.6003153678029776
+color:
+  brandStrength: 0.7807945089880377
+  lightness: 0.8491722482722253
+  saturation: 0.693470460595563
+  rhythmicContrast: 0.42896152357570827
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: XeNoS-Art
