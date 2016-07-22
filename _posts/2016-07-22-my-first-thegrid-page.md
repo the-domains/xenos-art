@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T11:32:34.754Z'
+datePublished: '2016-07-22T11:36:33.228Z'
 sourcePath: _posts/2016-07-22-my-first-thegrid-page.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-07-22T11:32:34.335Z'
+dateModified: '2016-07-22T11:36:32.787Z'
 title: My first TheGrid page!
 publisher:
   name: XeNoS-Art
