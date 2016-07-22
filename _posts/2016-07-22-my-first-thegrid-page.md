@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-07-22T11:10:32.453Z'
+datePublished: '2016-07-22T11:15:52.565Z'
 sourcePath: _posts/2016-07-22-my-first-thegrid-page.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-22T11:10:31.817Z'
+dateModified: '2016-07-22T11:15:52.119Z'
 title: My first TheGrid page!
 publisher:
   name: XeNoS-Art
 description: ''
-hasPage: true
+inNav: true
 starred: false
 url: my-first-thegrid-page/index.html
 _type: Article
