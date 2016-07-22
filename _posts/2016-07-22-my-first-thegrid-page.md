@@ -1,24 +1,23 @@
 ---
-datePublished: '2016-07-22T11:20:24.444Z'
+datePublished: '2016-07-22T11:32:34.754Z'
 sourcePath: _posts/2016-07-22-my-first-thegrid-page.md
 inFeed: true
-hasPage: true
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca499c4b-dae0-48a6-9245-9a472c2f3829.jpg
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-07-22T11:20:23.898Z'
+dateModified: '2016-07-22T11:32:34.335Z'
 title: My first TheGrid page!
 publisher:
   name: XeNoS-Art
-description: ''
+description: Testing this kind of webpage.
 inNav: false
 starred: false
-url: my-first-thegrid-page/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # My first TheGrid page!
 ![Not working!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca499c4b-dae0-48a6-9245-9a472c2f3829.jpg)
 
-My first TheGrid page!
-
-Testing it, but this is all?
+Testing this kind of webpage.
