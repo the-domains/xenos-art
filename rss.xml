@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[XeNoS-Art]]></title>
         <description><![CDATA[XeNoS-Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/xenos-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 10:44:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jul 2016 10:47:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xenos-art/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca499c4b-dae0-48a6-9245-9a472c2f3829.jpg">]]></description>
+            <title><![CDATA[My first TheGrid page!]]></title>
+            <description><![CDATA[<article><h1>My first TheGrid page!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca499c4b-dae0-48a6-9245-9a472c2f3829.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca499c4b-dae0-48a6-9245-9a472c2f3829.jpg</link>
             <guid isPermaLink="false">21ff3393-46a5-4d06-b231-05c96603bd66</guid>
-            <pubDate>Fri, 22 Jul 2016 10:43:55 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2016 10:47:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
