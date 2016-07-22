@@ -17,3 +17,7 @@ navigation:
     url: 2016-07-22-mimimimi.html
     name: Portfolio
     type: content
+  - id: 21ff3393-46a5-4d06-b231-05c96603bd66
+    url: 2016-07-22-my-first-thegrid-page.html
+    name: Home
+    type: content
