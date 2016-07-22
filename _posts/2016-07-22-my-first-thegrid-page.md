@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-22T11:01:20.464Z'
+datePublished: '2016-07-22T11:10:32.453Z'
 sourcePath: _posts/2016-07-22-my-first-thegrid-page.md
 inFeed: true
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca499c4b-dae0-48a6-9245-9a472c2f3829.jpg
 author: []
 via: {}
-dateModified: '2016-07-22T11:00:46.410Z'
+dateModified: '2016-07-22T11:10:31.817Z'
 title: My first TheGrid page!
 publisher:
   name: XeNoS-Art
 description: ''
+hasPage: true
 starred: false
-_type: MediaObject
+url: my-first-thegrid-page/index.html
+_type: Article
 
 ---
 # My first TheGrid page!
