@@ -12,4 +12,8 @@ color:
     - '#4D4D4D'
     - '#333333'
 name: XeNoS-Art
-navigation: []
+navigation:
+  - id: 4b915452-8028-4efe-8b8c-219f76dbc733
+    url: 2016-07-22-earth.html
+    name: Portfolio
+    type: content
