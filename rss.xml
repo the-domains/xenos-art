@@ -4,14 +4,14 @@
         <description><![CDATA[XeNoS-Art]]></description>
         <link>https://thegrid.ai/xenos-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 11:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 11:10:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/xenos-art/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My first TheGrid page!]]></title>
             <description><![CDATA[<article><h1>My first TheGrid page!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca499c4b-dae0-48a6-9245-9a472c2f3829.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca499c4b-dae0-48a6-9245-9a472c2f3829.jpg</link>
+            <link>https://thegrid.ai/xenos-art/my-first-thegrid-page/index.html</link>
             <guid isPermaLink="false">21ff3393-46a5-4d06-b231-05c96603bd66</guid>
-            <pubDate>Fri, 22 Jul 2016 11:01:20 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2016 11:10:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
