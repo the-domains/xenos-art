@@ -12,4 +12,8 @@ color:
     - '#4D4D4D'
     - '#333333'
 name: XeNoS-Art
-navigation: []
+navigation:
+  - id: 4c6dd676-b6a5-4100-bf15-e2d8821654c3
+    url: 2016-07-22-mimimimi.html
+    name: Portfolio
+    type: content
