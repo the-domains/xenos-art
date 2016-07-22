@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T11:52:20.442Z'
+datePublished: '2016-07-22T11:54:46.973Z'
 sourcePath: _posts/2016-07-22-my-first-thegrid-page.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,17 +7,17 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-07-22T11:52:19.939Z'
+dateModified: '2016-07-22T11:54:46.494Z'
 title: My first TheGrid page!
 publisher: {}
-description: Not working!
+description: Budapest by night
 inNav: false
 starred: false
 _type: MediaObject
 
 ---
 ## _**My first TheGrid page!**_
-![Not working!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee7681ec-0abb-475d-a0da-8bf139aea036.jpg)
+![Budapest by night](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee7681ec-0abb-475d-a0da-8bf139aea036.jpg)
 
 ## _**Testing this kind of webpage.**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f32ddaf1-91fd-4b9d-9cf8-74b4149b4b4d.jpg)
